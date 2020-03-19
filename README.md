@@ -1,7 +1,8 @@
 # Doubly_Linked_List
 
-a implementation of templated circular doubly linked list
-It is a homework from Data structure
+a implementation of templated circular doubly linked list.
+
+It is a homework from Data structure.
 
 # Feature
 
